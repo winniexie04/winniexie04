@@ -4,8 +4,7 @@
 💻 Skilled in Python, R, SQL, and Java | Building tools that turn data into stories  
 
 #### 🌟 Featured Projects  
-- **MEN-TAL** – Mental-health tracker web prototype built within a 24-hour hackathon, designed with men-friendly UX and wellness journaling features
-- **BigBack Journey** – JJava Swing app to log restaurant visits with ratings and reviews, supporting quick retrieval and custom filters
+- **BigBack Journey** – Java Swing app to log restaurant visits with ratings and reviews, supporting quick retrieval and custom filters
 
 
 #### 📫 Let’s Connect  
